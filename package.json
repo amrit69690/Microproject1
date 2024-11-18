@@ -1,0 +1,24 @@
+{
+  "name": "microproject1",
+  "version": "1.0.0",
+  "description": "A microproject using Express to serve JSON data and a static website.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "microproject",
+    "json",
+    "api"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

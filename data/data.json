@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "The Great Gatsby", "description": "A classic novel by F. Scott Fitzgerald about the American Dream and the roaring twenties." },
+    { "id": 2, "name": "To Kill a Mockingbird", "description": "A powerful story by Harper Lee exploring racial injustice in the American South." },
+    { "id": 3, "name": "1984", "description": "George Orwell's dystopian masterpiece about totalitarianism and surveillance." },
+    { "id": 4, "name": "The Catcher in the Rye", "description": "J.D. Salinger's novel about teenage rebellion and self-discovery." },
+    { "id": 5, "name": "Pride and Prejudice", "description": "Jane Austen's timeless romance that critiques societal expectations." },
+    { "id": 6, "name": "The Lord of the Rings", "description": "J.R.R. Tolkien's epic fantasy tale of adventure, friendship, and the battle between good and evil." }
+]
